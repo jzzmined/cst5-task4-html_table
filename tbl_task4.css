@@ -1,0 +1,45 @@
+th {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(215, 177, 127);
+    font-weight: bold;
+    text-align: left;
+}
+td {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(249, 249, 249);
+}
+
+th, td{
+    border: 2px solid black;   
+    padding: 5px;
+    text-align: center;
+    
+}
+.header {
+    font-size: 25x;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(63, 43, 1)
+
+}
+.container {
+    width: 80%;
+    height: 150%;
+    margin: 10px auto;
+    margin-top: 120px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    border: 3px solid rgb(63, 43, 1);
+    padding: 20px;
+    background-color: rgb(247, 234, 210);
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    height: 50%;
+}
+body {
+    background-color: rgb(222, 213, 170);
+}
